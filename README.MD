@@ -1,3 +1,1 @@
 ## Collaboration
-
-Git, git, git!
